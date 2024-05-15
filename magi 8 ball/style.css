@@ -1,0 +1,21 @@
+html {
+  background-image: url(img/375105.jpg);
+  background-size: cover;
+}
+body {
+  background: rgba(0, 0, 0, 0.5);
+  width: 500px;
+  padding: 50px 100px;
+  margin: 25px auto;
+  border-radius: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  size: 700px;
+}
+
+h1 {
+  color: antiquewhite;
+  padding-top: 70px;
+}
+p {
+  color: antiquewhite;
+}
